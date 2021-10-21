@@ -1,0 +1,8 @@
+.name {
+    color: #fff;
+    padding: 3px;
+}
+
+.bkgColor {
+    background-image: linear-gradient(40deg, rgb(4, 65, 31), #08353b);
+}
